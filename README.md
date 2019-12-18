@@ -1,4 +1,4 @@
-# Akamai CLI: Image Manager Module 5
+# Akamai CLI: Image Manager Module 6
 
 This module enables the use of Image Manager (IM) in the Akamai CLI tool
 
