@@ -1,4 +1,4 @@
-# Akamai CLI: Image Manager Module 12
+# Akamai CLI: Image Manager Module 13
 
 This module enables the use of Image Manager (IM) in the Akamai CLI tool
 
